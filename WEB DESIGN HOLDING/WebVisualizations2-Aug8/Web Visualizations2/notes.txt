@@ -1,0 +1,6 @@
+notes.txt
+
+- changed paths of images to relative paths so they should appear properly when you put on server
+- added javascript and css for bootstrap
+- copied bootstrap nav code, first example, will edit to create what we need
+- copied and modified nav menu, first menu on bootstrap nav component page.  Requires some class changes to get text to right.
