@@ -1,0 +1,90 @@
+@media (max-width: 993px) {
+    body nav.text-info-bg {
+        background-color: #17a2b8!important;
+    }
+    body .picDiv img {
+        width: 110px;
+        height: 110px;
+    }
+    button.navbar-toggler,
+    button.navbar-toggler * {
+        color: #fefefe;
+        border-color: #fefefe;
+    }
+    html body .picDiv {
+        min-width: 510px;
+    }
+}
+
+body {
+    background-color: #d9d9d9;
+}
+
+@media (min-width: 992px) {}
+
+a.navbar-brand {
+    font-family: serif, 'Times New Roman';
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: serif;
+    color: #17a2b8;
+    font-weight: bold;
+}
+
+h4 {
+    text-align: center;
+}
+
+div.table-responsive {
+    background-color: #efefef;
+}
+.mainRow div {
+    background-color: #fff;
+    margin: 1em;
+    font-size: 1.05em;
+}
+
+.picDiv img {
+    width: 130px;
+    height: 130px;
+}
+
+.picDiv div {
+    float: left;
+    margin: 0.2em;
+}
+
+.mainTextImg {
+    width: 160px;
+    height: 160px;
+    display: block;
+    float: left;
+}
+
+.largeTextImg {
+    width: 100%;
+}
+
+.descriptive_title {
+    color: #444;
+    display: none;
+}
+
+.active img {
+    border: 2px solid transparent;
+}
+
+.picDiv .active img {
+    border: 2px solid #17a2b8;
+}
+
+.tealHead {
+    color: #4aaaa5;
+}
